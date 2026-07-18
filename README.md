@@ -27,25 +27,27 @@
 - ▸ Всё делаю в двух цветах: **чёрный и белый** — как этот профиль
 - ▸ Мой проект: [**youtube-downloader-gui**](https://github.com/imfromlondom/youtube-downloader-gui) — красивый загрузчик видео и Shorts с YouTube
 
-## 黒 Статистика · Stats
+## 黒 Стек · Stack
 
 <div align="center">
 
-<a href="https://github.com/imfromlondom">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=imfromlondom&show_icons=true&locale=ru&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&rank_icon=github">
-  <img src="https://github-readme-stats.vercel.app/api?username=imfromlondom&show_icons=true&locale=ru&bg_color=ffffff&text_color=000000&title_color=000000&icon_color=000000&border_color=000000&rank_icon=github" width="440" alt="Статистика GitHub">
-</picture>
-</a>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+&nbsp;
+<img src="https://img.shields.io/badge/CustomTkinter-ffffff?style=for-the-badge&logoColor=black" alt="CustomTkinter">
+&nbsp;
+<img src="https://img.shields.io/badge/yt--dlp-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="yt-dlp">
+&nbsp;
+<img src="https://img.shields.io/badge/FFmpeg-ffffff?style=for-the-badge&logo=ffmpeg&logoColor=black" alt="FFmpeg">
 
 <br><br>
 
 <a href="https://github.com/imfromlondom/youtube-downloader-gui">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=imfromlondom&repo=youtube-downloader-gui&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imfromlondom&repo=youtube-downloader-gui&bg_color=ffffff&text_color=000000&title_color=000000&icon_color=000000&border_color=000000" width="440" alt="youtube-downloader-gui">
-</picture>
+<img src="https://img.shields.io/badge/▸_YOUTUBE_DOWNLOADER-посмотреть_проект-000000?style=for-the-badge&labelColor=ffffff" alt="Открыть youtube-downloader-gui">
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=imfromlondom&color=000000&style=for-the-badge&label=%D0%9F%D0%A0%D0%9E%D0%A1%D0%9C%D0%9E%D0%A2%D0%A0%D0%AB" alt="Просмотры профиля">
 
 </div>
 
